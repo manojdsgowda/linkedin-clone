@@ -16,6 +16,7 @@ const Header = (props) => {
           <SearchIcon>
             <img src="images/search-icon.svg" alt=""></img>
           </SearchIcon>
+          <p>hi</p>
         </Search>
       </Content>
     </Container>
